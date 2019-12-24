@@ -1,2 +1,2 @@
 # senior--capstone-final
-https://cmickalea.github.io/senior-capston--final/
+https://cmickalea.github.io/senior-capstone--final/.
